@@ -1,0 +1,2 @@
+-- Nothing required on server side since all admin checks happen client-side
+-- If you need server-side functionality contact https://discord.gg/m20
